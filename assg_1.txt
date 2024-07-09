@@ -7,6 +7,7 @@ Big data Management
 These are the subjects of trimiester 3
 There is also a capstone project 
 There are gen ai classes also going on
+there are total 3 projects - BDM + Advanced cloud + capstone
 
 Trimester 2
 Social analytics 
