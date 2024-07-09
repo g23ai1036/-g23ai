@@ -5,3 +5,4 @@ Advanced data engineering on cloud
 Big data Management
 These are the subjects of trimiester 3
 There is also a capstone project 
+There are gen ai classes also going on
