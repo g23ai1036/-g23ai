@@ -12,3 +12,12 @@ Trimester 2
 Social analytics 
 Machine learning 
 cloud 
+distributed  systems
+
+trimester 1
+
+Math
+data science 
+python
+business analytics 
+sql
